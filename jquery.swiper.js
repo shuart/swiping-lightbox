@@ -1,7 +1,7 @@
 /*
- *  Project:
+ *  Project: Swiper
  *  Description:
- *  Author:
+ *  Author: Stéphane Huart
  *  License:
  */
 
